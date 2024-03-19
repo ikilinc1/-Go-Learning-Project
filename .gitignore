@@ -14,6 +14,9 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# Ignored files
+/Section-2/go-micro/project/db-data
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
